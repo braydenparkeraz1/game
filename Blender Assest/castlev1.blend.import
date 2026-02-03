@@ -3,13 +3,13 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-uid="uid://p0seifdhsnj4"
-path="res://.godot/imported/castlev2.blend-3d298cf4ea071592b597c304a9bbf23c.scn"
+uid="uid://leii7d2202jy"
+path="res://.godot/imported/castlev1.blend-684aced11976d192a669f50355849f12.scn"
 
 [deps]
 
-source_file="res://castlev2.blend"
-dest_files=["res://.godot/imported/castlev2.blend-3d298cf4ea071592b597c304a9bbf23c.scn"]
+source_file="res://Blender Assest/castlev1.blend"
+dest_files=["res://.godot/imported/castlev1.blend-684aced11976d192a669f50355849f12.scn"]
 
 [params]
 

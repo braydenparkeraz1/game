@@ -1,8 +1,8 @@
-[gd_scene format=3 uid="uid://cukbj2wk3vnf8"]
+[gd_scene format=3 uid="uid://c2o63seqkw28d"]
 
-[ext_resource type="PackedScene" uid="uid://p0seifdhsnj4" path="res://castlev2.blend" id="1_a202f"]
+[ext_resource type="PackedScene" uid="uid://leii7d2202jy" path="res://Blender Assest/castlev1.blend" id="1_a202f"]
 
 [node name="Node3D" type="Node3D" unique_id=1017933821]
 
-[node name="castlev2" parent="." unique_id=1887383468 instance=ExtResource("1_a202f")]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.2201339, 0, -0.90405893)
+[node name="castlev1" parent="." unique_id=500986487 instance=ExtResource("1_a202f")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.19637546, -0.15047097, -0.07058209)
